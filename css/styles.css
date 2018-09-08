@@ -1,0 +1,41 @@
+h1, p {
+    background-color:lightgrey;
+}
+em, strong {
+    background-color:lightblue;
+    display: inline;
+
+}
+h1 {
+    padding: 50px;
+    border: 5px solid blue;
+
+}
+p {
+    padding: 20px 0 20px 10px;
+    margin-top: 25px;
+    margin-bottom: 50px;
+    border: 5px solid blue;
+}
+h1{ 
+    padding: 50px;
+    border: 5px solid red;
+    
+}
+div {
+    color: green;
+    background-color: lightcoral;
+    font-weight: bold;
+    padding: 20px;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 45px;
+    width: auto;
+
+}
+
+body {
+    background-image: url("../Grumpy-Cat-920x584.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
